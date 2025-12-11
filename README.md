@@ -91,11 +91,11 @@ You can connect the form to your backend or services like Formspree, Google Shee
 
 ```graphql
 BootstrapForm/
-│── index.html
+│── index.html                  # Main page containing Bootstrap Contact Form
 |
 │── css/
-|    │── bootstrap.min.css
-|    └── style.css
+|    │── bootstrap.min.css      # Bootstrap CSS
+|    └── style.css              # Custom CSS
 │── js/
 |    │── bootstrap.min.js       # Bootstrap JS
 |    └── jquery-2.1.4.min.js    # jQuery
