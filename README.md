@@ -96,6 +96,9 @@ BootstrapForm/
 │── css/
 |    │── bootstrap.min.css      # Bootstrap CSS
 |    └── style.css              # Custom CSS
+|
+|── fonts/*                     # glyphicons fonts
+|
 │── js/
 |    │── bootstrap.min.js       # Bootstrap JS
 |    └── jquery-2.1.4.min.js    # jQuery
