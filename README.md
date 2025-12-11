@@ -41,6 +41,12 @@ You can try the working form directly here:
 
 ---
 
+### 📷 Screenshot
+
+[![Mockup of project Bootstrap Contact Form by professional web developer and designer Mirnes Glamočić](/screenshot.png)](https://full-stack-web-developer-and-designer.github.io/BootstrapForm)
+
+---
+
 ## 🔧 Getting Started
 
 To run this project locally:
@@ -67,7 +73,7 @@ index.html
 
 ---
 
-## 📌 Usage
+### 📌 Usage
 
 Use this template as a starting point for:
 
@@ -81,7 +87,28 @@ You can connect the form to your backend or services like Formspree, Google Shee
 
 ---
 
-## 🤝 Contributing
+### 📂 Project Structure
+
+```graphql
+BootstrapForm/
+│── index.html
+|
+│── css/
+|    │── bootstrap.min.css
+|    └── style.css
+│── js/
+|    │── bootstrap.min.js       # Bootstrap JS
+|    └── jquery-2.1.4.min.js    # jQuery
+|
+│── LICENSE              # MIT LICENSE
+|
+│── README.md            # This documentation file
+|
+└── screenshot.png       # screenshot
+```
+---
+
+### 🤝 Contributing
 
 Contributions are welcome! Here’s how you can help:
 
@@ -105,7 +132,7 @@ Feel free to open issues for bugs or ideas too!
 
 ---
 
-## 📄 License
+### 📄 License
 
 This project is open source and available under the MIT License.
 See the LICENSE file for details.
